@@ -1,10 +1,5 @@
-# Web Front-End Designer and Developer
 
-Please visit: http://zhangwenli.com.
 
-## Blog Source Code
-
-<a href="https://github.com/Ovilia/blog/tree/gh-pages">https://github.com/Ovilia/blog/tree/gh-pages</a>
 
 ## License
 
